@@ -1,0 +1,18 @@
+{
+  "name": "azphalt-fast-neural-style",
+  "version": "1.0.0",
+  "description": "Real-time neural style transfer that repaints a frame in a learned artistic style.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@azphalt/azp": "^0.1.0",
+    "@azphalt/azdk": "^0.1.0"
+  },
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HereLiesAz/azphalt-fast-neural-style.git"
+  }
+}

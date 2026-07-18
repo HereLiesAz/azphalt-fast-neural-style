@@ -1,0 +1,27 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.fast-neural-style",
+  "name": "Fast Neural Style",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "BSD-3-Clause",
+  "compat": ">=0.1",
+  "description": "Real-time neural style transfer that repaints a frame in a learned artistic style. Uses: artistic stylization; look development; music-video / title treatments.",
+  "author": "azphalt",
+  "homepage": "https://github.com/HereLiesAz/azphalt-fast-neural-style",
+  "assets": [
+    {
+      "type": "onnx",
+      "path": "",
+      "role": "style",
+      "remoteUrl": "https://github.com/HereLiesAz/azphalt-fast-neural-style/releases/latest/download/style.onnx",
+      "modelLicense": "BSD-3-Clause (fast-neural-style, ONNX Model Zoo)",
+      "tags": [
+        "style-transfer",
+        "artistic",
+        "image"
+      ]
+    }
+  ],
+  "files": {}
+}
