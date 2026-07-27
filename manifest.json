@@ -4,7 +4,7 @@
   "name": "Fast Neural Style",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Upstream-Unstated",
   "compat": ">=0.1",
   "description": "Real-time neural style transfer that repaints a frame in a learned artistic style. Uses: artistic stylization; look development; music-video / title treatments.",
   "author": "HereLiesAz",
